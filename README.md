@@ -7,3 +7,5 @@
 ·[🛠Bot:](https://discord.com/oauth2/authorize?client_id=759273434671874068&permissions=999999999999999999999999999&scope=bot)  https://discord.com/oauth2/authorize?client_id=759273434671874068&permissions=999999999999&scope=bot
 
 ·[📢Bot patrcinador:](https://discord.gg/F2rm47g) https://discord.gg/F2rm47g
+
+
