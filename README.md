@@ -1,6 +1,5 @@
 # HALOJA A TODOS 👋
 
-![](https://cdn.discordapp.com/attachments/786007710399201330/791195228035350528/Thegod_test_.png)
 
 + [💻Discord:](https://discord.gg/EkT7M98) https://discord.gg/EkT7M98
 
